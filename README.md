@@ -2,6 +2,16 @@
 
 A React app for fetching and browsing popular movies, searching for movies, and saving favorites in the browser.
 
+## Screenshots
+
+### Home page
+
+![Movies List home page](./screenshots/home_page.png)
+
+### Favorites page
+
+![Movies List favorites page](./screenshots/favorites_page.png)
+
 ## Getting started
 
 1. Install dependencies with `npm install`.
