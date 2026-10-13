@@ -1,6 +1,6 @@
 # Movies List
 
-A React app for browsing popular movies, searching for movies, and saving favorites in the browser.
+A React app for fetching and browsing popular movies, searching for movies, and saving favorites in the browser.
 
 ## Getting started
 
